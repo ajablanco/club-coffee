@@ -2,7 +2,7 @@ This is the beginning template for React 1 Single Page Applications Sprint Revie
 
 # Objectives
 
-``
+```
 1. Build a homepage with a '/' route.
 2. Build an order coffee form with a '/order-coffee' route.
     a. Name field (person ordering) - required (minimum 3 letters)
@@ -16,7 +16,7 @@ This is the beginning template for React 1 Single Page Applications Sprint Revie
 4. Display the order
 5. Edit the order
 6. Write tests for a order-coffee form.
-``
+```
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
