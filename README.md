@@ -5,7 +5,7 @@ This is the beginning template for React 1 Single Page Applications Sprint Revie
 2. Build an order coffee form with a '/order-coffee' route.
     a. Name field (person ordering) - required (minimum 3 letters)
     b. Phone number field - required (must be 10 numbers)
-    c. Type of Cofee (Regular, Latte, Americano, Flat White, Espresso, Cappucino) dropdown
+    c. Type of Coffee (Regular, Latte, Americano, Flat White, Espresso, Cappucino) dropdown
     d. Iced or Hot (Iced, Hot) radio buttons
     e. Choice of milk (none, soy, almond, oat, regular, non-fat, skim) dropdown
     f. Additions - No foam, cinnamon, caramel drizzle, whipped cream
