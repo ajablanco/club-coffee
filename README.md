@@ -5,17 +5,17 @@ This is the beginning template for React 1 Single Page Applications Sprint Revie
 ```
 1. Build a homepage with a '/' route.
 2. Build an order coffee form with a '/order-coffee' route.
-    a. Name field (person ordering) - required (minimum 3 letters)
+    a. Name field (person ordering) - required (minimum 2 letters)
     b. Phone number field - required (must be 10 numbers)
-    c. Type of Cofee (Regular, Latte, Americano, Flat White, Espresso, Cappucino) dropdown
-    d. Iced or Hot (Iced, Hot) radio buttons
+    c. Type of Coffee (Regular, Latte, Americano, Flat White, Espresso, Cappucino) dropdown
+    d. Iced or Hot (Iced, Hot) dropdown
     e. Choice of milk (none, soy, almond, oat, regular, non-fat, skim) dropdown
-    f. Additions - No foam, cinnamon, caramel drizzle, whipped cream
+    f. Additions - No foam, cinnamon, caramel drizzle, whipped cream (checkbox)
     g. Special instructions
 3. Order Coffee button
 4. Display the order
-5. Edit the order
-6. Write tests for a order-coffee form.
+5. Cancel order / Edit order
+6. Write tests for order-coffee form.
 ```
 
 
